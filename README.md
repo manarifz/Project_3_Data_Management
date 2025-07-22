@@ -2,7 +2,7 @@
 
 This project utilizes Apache Zeppelin and Spark SQL to analyze the MovieLens 100k dataset, focusing on user behavior, movie preferences, and demographic insights. The goal is to answer specific analytical questions and demonstrate the integration of Spark with modern data tools.
 
-> Dataset can be obtained from [MovieLens 100k Dataset](https://grouplens.org/datasets/movielens/100k/)
+[Download MovieLens 100k Dataset](https://grouplens.org/datasets/movielens/100k/)
 
 ## 🔍 Project Summary
 
