@@ -66,7 +66,7 @@ The MovieLens 100k dataset contains 100,000 ratings from 943 users across 1,682 
 3. Open Apache Zeppelin and import the notebook.
 4. Run Spark SQL queries to perform analysis.
 
-> 📥 Download Data via Shell Script:
+### 📥 Download Data via Shell Script:
 
 ```shell
 wget http://media.sundog-soft.com/hadoop/ml-100k/u.user -O /tmp/u.user
